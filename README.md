@@ -45,7 +45,7 @@ A full-stack AI chatbot application with persistent chat history, built with Fas
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/phakamani-ai-assistant.git
+git clone https://github.com/idungamanzi/Phakamani-AI-Assistant
 cd phakamani-ai-assistant
 ```
 
@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Phakamani Sibeko - (https://www.linkedin.com/in/pwm-sibeko-t1000)
 
-Project Link: [https://github.com/yourusername/phakamani-ai-assistant](https://github.com/yourusername/phakamani-ai-assistant)
+Project Link: [https://github.com/idungamanzi/Phakamani-AI-Assistant](https://github.com/idungamanzi/Phakamani-AI-Assistant)
 
 ---
 
