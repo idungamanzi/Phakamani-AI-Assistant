@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#050708] text-cyberSilver;
+  font-family: ui-monospace, "Fira Code", monospace;
+}
